@@ -1,2 +1,31 @@
+
+
 # my-first-project
 my-first-project
+
+Ababalwe Mhambi 221507000
+
+PROGRAMMING IN JAVA
+Integrated development environments (IDE) are applications that makes easy  the development of other applications. There are three most basic parts of the 
+Java ecosystem are the Java Virtual Machine (JVM), the Java Runtime Environment (JRE), and the Java Development Kit (JDK), which are supply parts that are supplied
+by Java implementations.  Designed to encompass all programming tasks in one application, one of the main benefits of an IDE is that they offer a central interface with
+all the tools a developer needs, including:
+
+>	Code editor : Designed for writing and correct the source code, these editors are important from text editors because work to also simplify  the process of
+writing and  correct the code for developers.
+
+>	Compiler: Compilers convert source code that is written by a human readable language in a form of computers that can execute.
+
+>	Debugger: Debuggers are used during checking and can assist developers to debug their application programs.
+
+>	Build automation tools: These can assist to automate developer tasks that are extra common to keep time.
+
+Each Java program runs under the control of a JVM. Each time you run a Java program, the instance in JVM is created. It supply protection and isolation for the 
+Java program that is running. It resist the running of the code from clashing with other programs within the system. It works like a non-strict sandbox, doing 
+a safe to serve resources, even in uncertain environments such as the internet, but allowing interoperability with the computer on which it runs. In easy terms,
+JVM acts as a computer inside a computer, which means specifically for running Java programs.
+
+At the top layer of stock Java technologies is the JDK. The JDK carry all the programs that are required to develop Java programs, and it's most essential part is the 
+Java Compiler (javac). The JDK also includes most auxiliary tools such as a Java disassembler (javap), a utility to create packages of Java applications (jar), system to 
+bring about documentation from source code (javadoc), among most other utilities. The JDK is a superset of the JRE, meaning that if you had the JDK, then you also has the
+JRE (and the JVM).
